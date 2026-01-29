@@ -26,7 +26,7 @@ Tô começando a compartilhar meus aprendizados nas redes sociais e no YouTube, 
 <a href="mailto:compcopycode@gmail.com" target="_blank">
   <img alt="Email" title="Me manda um e-mail!" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F"/>
 </a>
-<a href="https://www.linkedin.com/in/joseph-vts-98460a35a/" target="_blank">
+<a href="https://www.linkedin.com/in/Joseph-VTs-98460a35a/" target="_blank">
   <img alt="LinkedIn" title="Conecta comigo no LinkedIn!" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005983"/>
 </a>
 <a href="https://porti-joseph-freelancer.netlify.app/" target="_blank">
@@ -89,46 +89,36 @@ Tô começando a compartilhar meus aprendizados nas redes sociais e no YouTube, 
 
 <!-- Estatísticas -->
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=joseph-vts&show_icons=true&theme=tokyonight&custom_title=⭐%20Estatísticas"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-vts&theme=tokyonight&custom_title=📈%20Tecnologias%20mais%20usadas"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-vts&theme=tokyonight"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joseph-vts&theme=tokyonight&custom_title=📂%20Repositórios%20por%20Linguagem"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joseph-vts&theme=tokyonight&custom_title=📜%20Resumo%20do%20Perfil"/>
-    </td>
-  </tr>
+<tr>
+ <td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joseph-VTs&theme=tokyonight&custom_title=📊 Commits Rank"/>
+ </td>
+ <td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joseph-VTs&theme=tokyonight"/>
+ </td>
+</tr>
+
+<tr>
+ <td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-VTs&theme=tokyonight"/>
+ </td>
+ <td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-vts&theme=tokyonight&custom_title=🔥 Streak"/>
+ </td>
+</tr>
+
+<tr>
+ <td colspan="2">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joseph-VTs&theme=tokyonight&custom_title=📜%20Resumo%20do%20Perfil"/>
+ </td>
+</tr>
 </table>
 
+<!-- Visitantes -->
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Joseph-VTs)
 
 <!-- Finalização -->
 Se você chegou até aqui, valeu demais por dedicar um tempinho pra conhecer meu trabalho!  
 Tô sempre aprendendo, errando, rindo e codando — com o coração cheio de vontade de fazer a diferença com o que eu crio.
 
-> “Não é só código. É carinho, criatividade e café passado na hora.” ☕💻
-
-
-<img src="https://raw.githubusercontent.com/Joseph-VTs/Joseph-VTs/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
-<img src="https://raw.githubusercontent.com/Joseph-VTs/Joseph-VTs/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
-<img src="https://raw.githubusercontent.com/Joseph-VTs/Joseph-VTs/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
-<img src="https://raw.githubusercontent.com/Joseph-VTs/Joseph-VTs/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
-<img src="https://raw.githubusercontent.com/Joseph-VTs/Joseph-VTs/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
-
-
-<!-- Visitantes -->
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=joseph-vts)
-
-
-
+> *“Não é só código. É carinho, criatividade e café passado na hora.” ☕💻*

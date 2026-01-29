@@ -91,32 +91,26 @@ Tô começando a compartilhar meus aprendizados nas redes sociais e no YouTube, 
 <table>
   <tr>
     <td>
-      <h3>⭐ Estatísticas</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=joseph-vts&show_icons=true&theme=tokyonight"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=joseph-vts&show_icons=true&theme=tokyonight&custom_title=⭐%20Estatísticas"/>
     </td>
     <td>
-      <h3>📈 Tecnologias mais usadas</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-vts&theme=tokyonight&custom_title=Tecnologias%20mais%20usadas"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-vts&theme=tokyonight&custom_title=📈%20Tecnologias%20mais%20usadas"/>
     </td>
   </tr>
   <tr>
     <td>
-      <h3>🔥 Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-vts&theme=tokyonight"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-vts&theme=tokyonight&custom_title=🔥%20Streak"/>
     </td>
     <td>
-      <h3>📂 Repositórios por linguagem</h3>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joseph-vts&theme=tokyonight&custom_title=Repositórios%20por%20Linguagem"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joseph-vts&theme=tokyonight&custom_title=📂%20Repositórios%20por%20Linguagem"/>
     </td>
   </tr>
   <tr>
     <td>
-      <h3>🛠️ Linguagem mais usada em commits</h3>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joseph-vts&theme=tokyonight&custom_title=Linguagem%20mais%20usada%20em%20Commits"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joseph-vts&theme=tokyonight&custom_title=🛠️%20Linguagem%20mais%20usada%20em%20Commits"/>
     </td>
     <td>
-      <h3>📜 Resumo do perfil</h3>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joseph-vts&theme=tokyonight&custom_title=Resumo%20do%20Perfil"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joseph-vts&theme=tokyonight&custom_title=📜%20Resumo%20do%20Perfil"/>
     </td>
   </tr>
 </table>

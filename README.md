@@ -46,8 +46,6 @@ Tô começando a compartilhar meus aprendizados nas redes sociais e no YouTube, 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-<br>
-
 <!-- Projetos -->
 <table>
   <tr>
@@ -89,23 +87,49 @@ Tô começando a compartilhar meus aprendizados nas redes sociais e no YouTube, 
   </tr>
 </table>
 
-<br clear="left"/>
-<!-- Streak Stats (dias seguidos de commits) -->
-<img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Joseph-VTs&theme=tokyonight&hide_border=false"/>
+<!-- Estatísticas -->
+<table>
+  <tr>
+    <td>
+      <h3>⭐ Estatísticas</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=joseph-vts&show_icons=true&theme=tokyonight"/>
+    </td>
+    <td>
+      <h3>📈 Tecnologias mais usadas</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-vts&theme=tokyonight&custom_title=Tecnologias%20mais%20usadas"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🔥 Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-vts&theme=tokyonight"/>
+    </td>
+    <td>
+      <h3>📂 Repositórios por linguagem</h3>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joseph-vts&theme=tokyonight&custom_title=Repositórios%20por%20Linguagem"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🛠️ Linguagem mais usada em commits</h3>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joseph-vts&theme=tokyonight&custom_title=Linguagem%20mais%20usada%20em%20Commits"/>
+    </td>
+    <td>
+      <h3>📜 Resumo do perfil</h3>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joseph-vts&theme=tokyonight&custom_title=Resumo%20do%20Perfil"/>
+    </td>
+  </tr>
+</table>
 
-<img align="left" alt="GitHub Stats" width="350px" style="padding: 10px; margin-top: 12px;" src="https://github-readme-stats.vercel.app/api?username=Joseph-VTs&show_icons=true&theme=tokyonight&include_all_commits=false"/>
 
-<img align="left" alt="Top Langs" width="350px" style="padding: 10px; margin-top: 12px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-VTs&theme=tokyonight&custom_title=Tecnologias&lang_count=10"/>
-
-<!-- Resumo do perfil -->
-<img align="center" alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joseph-VTs&theme=tokyonight"/>
-
-<br clear="left"/>
-
+<!-- Finalização -->
 Se você chegou até aqui, valeu demais por dedicar um tempinho pra conhecer meu trabalho!  
 Tô sempre aprendendo, errando, rindo e codando — com o coração cheio de vontade de fazer a diferença com o que eu crio.
 
 > “Não é só código. É carinho, criatividade e café passado na hora.” ☕💻
 
 <!-- Visitantes -->
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Joseph-VTs)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=joseph-vts)
+
+
+ ### 📊 Estatísticas

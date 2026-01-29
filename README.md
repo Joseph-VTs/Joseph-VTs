@@ -106,7 +106,7 @@ Tô começando a compartilhar meus aprendizados nas redes sociais e no YouTube, 
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joseph-vts&theme=tokyonight&custom_title=📜%20Resumo%20do%20Perfil"/>
     </td>
   </tr>
@@ -123,4 +123,32 @@ Tô sempre aprendendo, errando, rindo e codando — com o coração cheio de von
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=joseph-vts)
 
 
- ### 📊 Estatísticas
+ <!-- Estatísticas -->
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Joseph-VTs/Joseph-VTs/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Joseph-VTs/Joseph-VTs/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Joseph-VTs/Joseph-VTs/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Joseph-VTs/Joseph-VTs/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://raw.githubusercontent.com/Joseph-VTs/Joseph-VTs/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Joseph-VTs)
+

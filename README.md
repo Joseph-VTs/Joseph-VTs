@@ -99,7 +99,7 @@ Tô começando a compartilhar meus aprendizados nas redes sociais e no YouTube, 
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-vts&theme=tokyonight&custom_title=🔥%20Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-vts&theme=tokyonight"/>
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joseph-vts&theme=tokyonight&custom_title=📂%20Repositórios%20por%20Linguagem"/>

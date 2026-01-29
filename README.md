@@ -107,9 +107,6 @@ Tô começando a compartilhar meus aprendizados nas redes sociais e no YouTube, 
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joseph-vts&theme=tokyonight&custom_title=🛠️%20Linguagem%20mais%20usada%20em%20Commits"/>
-    </td>
-    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joseph-vts&theme=tokyonight&custom_title=📜%20Resumo%20do%20Perfil"/>
     </td>
   </tr>

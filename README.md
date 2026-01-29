@@ -15,7 +15,7 @@ Claro que nem tudo são flores. Às vezes o código trava, o bug aparece, o caf�
 Tô começando a compartilhar meus aprendizados nas redes sociais e no YouTube, e também tô me aventurando como freelancer. Ainda tô aprendendo, tropeçando, rindo e crescendo — mas sempre com o coração cheio de vontade de fazer a diferença com o que eu crio.
 </p>
 
-
+---
  ### 📞 Contatos
  <a href="https://wa.me/5551996203181" target="_blank">
   <img alt="WhatsApp" title="Me chama no Whats!" src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E"/>
@@ -87,11 +87,12 @@ Tô começando a compartilhar meus aprendizados nas redes sociais e no YouTube, 
   </tr>
 </table>
 
+
 <!-- Estatísticas -->
 <table>
 <tr>
  <td>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joseph-VTs&theme=tokyonight&custom_title=📊 Commits Rank"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joseph-VTs&theme=tokyonight&include_all_commits=true"/>
  </td>
  <td>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joseph-VTs&theme=tokyonight"/>
@@ -103,7 +104,7 @@ Tô começando a compartilhar meus aprendizados nas redes sociais e no YouTube, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-VTs&theme=tokyonight"/>
  </td>
  <td>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-vts&theme=tokyonight&custom_title=🔥 Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-vts&theme=tokyonight&custom_title=🔥 Streak"&locale="pt-br"/>
  </td>
 </tr>
 

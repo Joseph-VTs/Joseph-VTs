@@ -14,9 +14,10 @@ Claro que nem tudo são flores. Às vezes o código trava, o bug aparece, o caf�
 
 Tô começando a compartilhar meus aprendizados nas redes sociais e no YouTube, e também tô me aventurando como freelancer. Ainda tô aprendendo, tropeçando, rindo e crescendo — mas sempre com o coração cheio de vontade de fazer a diferença com o que eu crio.
 </p>
-<br>
 
-<a href="https://wa.me/5551996203181" target="_blank">
+
+ ### 📞 Contatos
+ <a href="https://wa.me/5551996203181" target="_blank">
   <img alt="WhatsApp" title="Me chama no Whats!" src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E"/>
 </a>
 <a href="https://www.instagram.com/dev.jvt_tech/" target="_blank">
@@ -33,82 +34,78 @@ Tô começando a compartilhar meus aprendizados nas redes sociais e no YouTube, 
 </a>
 
 <br>
-<br>
 
-
-| Projeto | Descrição | Tecnologias | Status |
-|--------|-----------|-------------|--------|
-| **Land-Page**<br><a href="https://github.com/Joseph-VTs/Doce-Sonho" target="_blank">🔗 Ver repositório</a> | Site de uma Padaria para Divulgação. | `HTML`, `CSS`, `JavaScript`, `PHP` | ![Status](https://img.shields.io/badge/Em%20Desenvolvimento-yellow?style=flat-square&logo=codeforces) |
-| **Sistema Bancário - Faculdade**<br><a href="https://github.com/Joseph-VTs/Sistema_Bancario" target="_blank">🔗 Ver repositório</a> | App de um sistema Bancário básico | `Python`, `.json` | ![Status](https://img.shields.io/badge/Concluído-brightgreen?style=flat-square&logo=checkmarx) |
-| **Lista de Tarefas**<br><a href="https://github.com/Joseph-VTs/Lista_Tarefas-v1" target="_blank">🔗 Ver repositório</a> | Lista de Tarefas para familiares e amigos. | `HTML`, `CSS`, `JavaScript` | ![Status](https://img.shields.io/badge/Em%20Teste-orange?style=flat-square&logo=beaker) |
-| **Site Pessoal**<br><a href="https://vt-aprendendo.netlify.app/" target="_blank">🔗 Repositório</a> • <a href="https://porti-joseph-freelancer.netlify.app/" target="_blank">🌐 Ver online</a> | Landing page com links de Aprendizagem, . | `HTML`, `CSS`, `JavaScript` | ![Status](https://img.shields.io/badge/Publicado-blue?style=flat-square&logo=vercel) | ![Status](https://img.shields.io/badge/Protótipo-lightgrey?style=flat-square&logo=prototype) |
-| **Financeiro Pessoal**<br><a href="https://github.com/Joseph-VTs/Financeiro-Pessoal" target="_blank">🔗 Ver repositório</a> | Calculadora gastos financeiros pessoal + Anotações. | `JavaScript`, `HTML`, `CSS` | ![Status](https://img.shields.io/badge/Protótipo-lightgrey?style=flat-square&logo=prototype) |
-| **Aprendendo Linguagens**<br><a href="https://github.com/Joseph-VTs/Aula_em_PHP" target="_blank">🔗 Ver repositório</a> | Anotações, 1°- passos, Observações, Dúvidas, Marcações, aprendo a codar. | `Java`, `Python`, `C++`, `JS`, `PHP` | ![Status](https://img.shields.io/badge/Concluído-brightgreen?style=flat-square&logo=currency) |
-
-<br>
-<br>
-
-<div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40px"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40px"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40px"/>
-  </a>
-  
-  <a href="https://www.php.net/docs.php" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40px"/>
-  </a>
-  
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40px"/>
-  </a>
-  
-  <a href="https://docs.github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40px"/>
-  </a>
-  
-  <a href="https://docs.python.org/3/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40px"/>
-  </a>
-  
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40px"/>
-  </a>
-  
-  <a href="https://cplusplus.com/doc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40px"/>
-  </a>
-  
-  <a href="https://nodejs.org/en/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="40px"/>
-  </a>
-</div>
-
+### 🛠️ Tecnologias
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 <br>
-<br>
+
+<!-- Projetos -->
+<table>
+  <tr>
+    <td>
+      <h3>📂 Land-Page</h3>
+      <a href="https://github.com/Joseph-VTs/Doce-Sonho" target="_blank">🔗 Ver repositório</a><br>
+      <img src="https://img.shields.io/badge/Em%20Desenvolvimento-yellow?style=for-the-badge"/>
+    </td>
+    <td>
+      <h3>📂 Sistema Bancário</h3>
+      <a href="https://github.com/Joseph-VTs/Sistema_Bancario" target="_blank">🔗 Ver repositório</a><br>
+      <img src="https://img.shields.io/badge/Concluído-brightgreen?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📂 Lista de Tarefas</h3>
+      <a href="https://github.com/Joseph-VTs/Lista_Tarefas-v1" target="_blank">🔗 Ver repositório</a><br>
+      <img src="https://img.shields.io/badge/Em%20Teste-orange?style=for-the-badge"/>
+    </td>
+    <td>
+      <h3>📂 Site Pessoal</h3>
+      <a href="https://vt-aprendendo.netlify.app/" target="_blank">🔗 Repositório</a> • 
+      <a href="https://porti-joseph-freelancer.netlify.app/" target="_blank">🌐 Ver online</a><br>
+      <img src="https://img.shields.io/badge/Publicado-blue?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📂 Financeiro Pessoal</h3>
+      <a href="https://github.com/Joseph-VTs/Financeiro-Pessoal" target="_blank">🔗 Ver repositório</a><br>
+      <img src="https://img.shields.io/badge/Protótipo-lightgrey?style=for-the-badge"/>
+    </td>
+    <td>
+      <h3>📂 Aprendendo Linguagens</h3>
+      <a href="https://github.com/Joseph-VTs/Aula_em_PHP" target="_blank">🔗 Ver repositório</a><br>
+      <img src="https://img.shields.io/badge/Em%20Aprendizagem-yellow?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
+
 <br clear="left"/>
-
-
+<!-- Streak Stats (dias seguidos de commits) -->
+<img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Joseph-VTs&theme=tokyonight&hide_border=false"/>
 
 <img align="left" alt="GitHub Stats" width="350px" style="padding: 10px; margin-top: 12px;" src="https://github-readme-stats.vercel.app/api?username=Joseph-VTs&show_icons=true&theme=tokyonight&include_all_commits=false"/>
 
 <img align="left" alt="Top Langs" width="350px" style="padding: 10px; margin-top: 12px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-VTs&theme=tokyonight&custom_title=Tecnologias&lang_count=10"/>
 
+<!-- Resumo do perfil -->
+<img align="center" alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joseph-VTs&theme=tokyonight"/>
+
 <br clear="left"/>
-
-
-
-
----
 
 Se você chegou até aqui, valeu demais por dedicar um tempinho pra conhecer meu trabalho!  
 Tô sempre aprendendo, errando, rindo e codando — com o coração cheio de vontade de fazer a diferença com o que eu crio.
 
 > “Não é só código. É carinho, criatividade e café passado na hora.” ☕💻
+
+<!-- Visitantes -->
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Joseph-VTs)

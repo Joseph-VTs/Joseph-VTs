@@ -126,6 +126,7 @@ Tô sempre aprendendo, errando, rindo e codando — com o coração cheio de von
 <img src="https://raw.githubusercontent.com/Joseph-VTs/Joseph-VTs/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
 <img src="https://raw.githubusercontent.com/Joseph-VTs/Joseph-VTs/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
 
+
 <!-- Visitantes -->
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=joseph-vts)
 

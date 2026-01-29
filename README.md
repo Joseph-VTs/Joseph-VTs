@@ -119,9 +119,15 @@ Tô sempre aprendendo, errando, rindo e codando — com o coração cheio de von
 
 > “Não é só código. É carinho, criatividade e café passado na hora.” ☕💻
 
+
+<img src="https://raw.githubusercontent.com/Joseph-VTs/Joseph-VTs/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
+<img src="https://raw.githubusercontent.com/Joseph-VTs/Joseph-VTs/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
+<img src="https://raw.githubusercontent.com/Joseph-VTs/Joseph-VTs/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
+<img src="https://raw.githubusercontent.com/Joseph-VTs/Joseph-VTs/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
+<img src="https://raw.githubusercontent.com/Joseph-VTs/Joseph-VTs/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
+
 <!-- Visitantes -->
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=joseph-vts)
-
 
 
 
